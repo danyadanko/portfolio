@@ -1,0 +1,14 @@
+{
+    "name": "Daniil.S",
+    "short_name": "Daniil.S",
+    "icons": [
+        {
+            "src": "FAVICON/android-chrome-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
